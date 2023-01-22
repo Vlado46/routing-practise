@@ -7,6 +7,7 @@ import EventsRootLayout from "./pages/EventsRoot";
 import HomePage from "./pages/HomePage";
 import NewEventPage, { action as newEventAction } from "./pages/NewEventPage";
 import RootLayout from "./pages/Root";
+import ErrorPage from "./pages/ErrorPage";
 
 const router = createBrowserRouter([
   {
